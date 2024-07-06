@@ -15,7 +15,6 @@ const SignUp = (props: Props) => {
             <ButtonHandler/>
           </div>
           <HighLightBar/>
-
         </SignUpFormprovider>
     </div>
   </div>
